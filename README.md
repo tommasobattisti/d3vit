@@ -1,0 +1,1 @@
+A simple repository to test Vite hosting on GitHub Pages using d3 as a dependency.
